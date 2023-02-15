@@ -1,6 +1,8 @@
-url: https://konstrukteur.github.io
-baseurl: /website-letbd-javascript
+url: https://localhost
+baseurl: ""
 
+
+# https://stackoverflow.com/a/27400343/4779531
 # We need to understand site.url and site.baseurl and in which situation we need them. Those variables don't serve the same purpose.
 
 # site.url
