@@ -1,3 +1,13 @@
+---
+---
+
+/* Other CSS rules */
+.hero-home {
+  background-image: url({{ site.baseurl }}/images/shark.jpg);
+  background-position: center top;
+}
+
+/* Other CSS rules */
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -339,10 +349,10 @@ h2 ~ p {
   transform: translate(-50%, 0);
   width: 0;
 }
-.hero-home {
+/*.hero-home {
   background-image: url(/images/shark.jpg);
   background-position: center top;
-}
+}*/
 .hero-content {
   color: #fff;
   position: relative;

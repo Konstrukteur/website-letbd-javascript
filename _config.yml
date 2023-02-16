@@ -1,2 +1,4 @@
 url: https://konstrukteur.github.io
 baseurl: /website-letbd-javascript
+sass:
+    sass_dir: _sass

@@ -1,5 +1,7 @@
 url: https://localhost
 baseurl: ""
+sass:
+    sass_dir: _sass
 
 
 # https://stackoverflow.com/a/27400343/4779531
